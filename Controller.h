@@ -1,6 +1,4 @@
-//
 // Made by Sp1ceForce
-//
 
 #ifndef BLACKJACK_CONTROLLER_H
 #define BLACKJACK_CONTROLLER_H

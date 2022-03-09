@@ -1,6 +1,4 @@
-//
-// Created by Ugay1 on 06.03.2022.
-//
+// Made by Sp1ceForce
 
 #ifndef BLACKJACK_CONSOLEHELPERS_H
 #define BLACKJACK_CONSOLEHELPERS_H

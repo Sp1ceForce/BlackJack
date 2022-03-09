@@ -1,6 +1,4 @@
-//
-// Created by Ugay1 on 05.03.2022.
-//
+// Made by Sp1ceForce
 
 #ifndef BLACKJACK_CARDINFO_H
 #define BLACKJACK_CARDINFO_H

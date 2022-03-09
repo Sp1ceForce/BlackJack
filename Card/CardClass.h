@@ -1,6 +1,6 @@
-//
 // Made by Sp1ceForce
-//
+
+
 
 //Class made for storing card data
 #ifndef BLACKJACK_CARDCLASS_H

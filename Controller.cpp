@@ -1,6 +1,4 @@
-//
 // Made by Sp1ceForce
-//
 
 #include "Controller.h"
 #include <iostream>

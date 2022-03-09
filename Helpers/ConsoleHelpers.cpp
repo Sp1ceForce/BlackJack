@@ -1,12 +1,8 @@
-//
-// Created by Ugay1 on 06.03.2022.
-//
+// Made by Sp1ceForce
 
 #include "ConsoleHelpers.h"
-
-
 #include <stdlib.h>
-#include <iostream>
+
 
 void ConsoleHelpers::ClearConsole() {
 #ifdef _WIN32
